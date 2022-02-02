@@ -1,8 +1,2 @@
-1,Game,Month,Year,Rating (1-4),Notes,Oculus Rating (1-4),Joystick press to sprint,Big open world/worlds,Low latency,Realistic speed,body direction
-2,VRChat,Februari,2022,4,https://github.com/dokterkats/katDB/blob/main/VRChat/worlds.csv,X,No,Yes,Yes,Yes,Yes
-3,,,,,,,,,,,
-4,,,,,,,,,,,
-5,,,,,,,,,,,
-6,,,,,,,,,,,
-7,,,,,,,,,,,
-8,,,,,,,,,,,
+Game,Month,Year,Rating (1-4),Notes,Oculus Rating (1-4),Joystick press to sprint,Big open world/worlds,Low latency,Realistic speed,body direction
+VRChat,Februari,2022,4,https://github.com/dokterkats/katDB/blob/main/VRChat/worlds.csv,X,No,Yes,Yes,Yes,Yes
