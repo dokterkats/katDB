@@ -57,3 +57,4 @@ To submit an game request, do one of the following:
 
 1. Submit a PR with your game(s) in the repo.
 2. Message Dokterkat#7493 with the following information: Game name, Platform(Oculus/Steam)
+3. Enter this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeDn0oKex0_4pimI7VM2yDv2NdpnQ5aCRGjnDV5PXSyZYR-ew/viewform?usp=sf_link">form</a>
