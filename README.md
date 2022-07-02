@@ -19,7 +19,7 @@ To create or view app requests where other testers can contribute and volunteer 
 <h3> Contribute Method 1 (google form) </h3>
 Please fill in the following <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTZCD_JpmMKz4kwejc3GD4TRIH-87ajOFqzSK4fTRvPj6dyg/viewform?usp=sf_link">form</a>
 
-<h3> Contribute Method 2 (Non-Github Method) </h3>
+<h3> Contribute Method 2 (Discord PM) </h3>
 Message Dokterkat#7493 with the games you used on your Kat device that are from Steam or Oculus with the following information:
 1. Game Name <br>
 2. Month Last Tested <br>
