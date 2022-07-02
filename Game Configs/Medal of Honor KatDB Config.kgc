@@ -1,0 +1,10 @@
+﻿{
+  "Index": 1,
+  "Name": "Medal Of Honor KatB",
+  "Linear_Mapping": true,
+  "InSteamController": 0,
+  "DirectionDatum": 2,
+  "ControlMethod": 3,
+  "Mapping_Speed": 1.0,
+  "Notes": "Using Thumbstick(Press) for faster locomotion"
+}
