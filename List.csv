@@ -1,13 +1,13 @@
 Game,Month,Year,Rating (1-4),Notes,Joystick press to sprint,Big open world/worlds,Low latency,Realistic speed,body direction,Platform,KatVR Device,Config used
 A Walk In The Woods VR,Februari,2022,3,Walking speed is only adjustible in the beta (Properties > Beta),No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,custom
-Tahpo Alpine Ski,,,,,,,,,,,,
+Tahoe Alpine Ski,,,,,,,,,,,,
 Altspace VR,Februari,2022,2,,No,Yes,Yes,No (Slow),Yes,SteamVR,Kat Walk C1,custom
 Arizona Sunshine,July,2022,4,KatDB config based on the Pre-Set config but with joystick(press),Yes,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,KatDB config
 Blade & Sorcerey,July,2022,4,,No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
 Chambered,July,2022,2,Free game,No,No,Yes,No (Too fast),No,SteamVR,Kat Walk C1,custom
 Drunkn Bar Fight,July,2022,2,,No ,Only Airport and Ally ,Yes ,No (Slow),Yes,SteamVR,Kat Walk C1,KatDB config
-Echo Grotto,July,2022,1,Doesn’t work: No free locomotion,x,x,x,x,x,SteamVR,Kat Walk C1,x
-Freedive  Triton Down,July,2022,1,Doesn’t work: No free locomotion,x,x,x,x,x,SteamVR,Kat Walk C1,x
+Echo Grotto,July,2022,1,Doesnâ€™t work: No free locomotion,x,x,x,x,x,SteamVR,Kat Walk C1,x
+Freedive  Triton Down,July,2022,1,Doesnâ€™t work: No free locomotion,x,x,x,x,x,SteamVR,Kat Walk C1,x
 Freedom Locomotion VR,Februari,2022,,"Broken on Index, submissions on other headsets are welcome",,,,,,,,
 Google Earth VR,July,2022,3,Its more like flying then walking,No,Its enormous!,Yes,Yes,No,SteamVR,Kat Walk C1,KatDB config
 Gorilla Tag,July,2022,1,No free locomotion,x,x,x,x,x,SteamVR,Kat Walk C1,x
