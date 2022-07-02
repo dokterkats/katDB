@@ -1,4 +1,4 @@
-Game,Month,Year,Rating (1-4),Notes,Joystick press to sprint,Big open world/worlds,Low latency,Realistic speed,body direction,Platform,KatVR Device,Congig used
+Game,Month,Year,Rating (1-4),Notes,Joystick press to sprint,Big open world/worlds,Low latency,Realistic speed,body direction,Platform,KatVR Device,Config used
 A Walk In The Woods VR,Februari,2022,3,Walking speed is only adjustible in the beta (Properties > Beta),No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,custom
 Tahpo Alpine Ski,,,,,,,,,,,,
 Altspace VR,Februari,2022,2,,No,Yes,Yes,No (Slow),Yes,SteamVR,Kat Walk C1,custom
@@ -15,7 +15,7 @@ Gorn,July,2022,4,,No,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
 Grid Clash,,,,,,,,,,,,
 Half-Life Alyx,,,,Use the launch options to increase walking speed,,,,,,,,
 Island 359,July,2022,3,"Uses stamina system, so sprinting can be unreliable at times",No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-Medal Of Honor: Above And Beyond,Februari,2022,4,,Yes,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,
+Medal Of Honor: Above And Beyond,Februari,2022,4,,Yes,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,KatDB config
 Overboard,,,,,,,,,,,,
 Pangman,Februari,2022,2,,?,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,
 Pavlov,,,,,,,,,,,,
