@@ -8,6 +8,8 @@ To view the CSV spreadsheet (and contribute) <a href="https://github.com/dokterk
 
 To create or view app requests where other testers can contribute and volunteer to test for you, <a href="https://github.com/dokterkats/katDB/blob/main/requests.csv">go here</a>
 
+To download custom game configs, <a href="https://github.com/dokterkats/katDB/tree/main/Game%20Configs">go here</a>
+
 <h2> What Do The Ratings Mean? </h2>
 1. Unusable. Mostly games that fail to work <br>
 2. Acceptable but with long latency or slow/unrealistic walking speeds <br>
