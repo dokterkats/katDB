@@ -1,14 +1,14 @@
 Game,Month,Year,Rating (1-4),Notes,Joystick press to sprint,Big open world/worlds,Low latency,Realistic speed,body direction,Platform,KatVR Device,Config used
 A Walk In The Woods VR,Februari,2022,3,Walking speed is only adjustible in the beta (Properties > Beta),No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,custom
-Tahoe Alpine Ski,,,,"No free locomotion, but no room scale required",,,,,,,,
+Alien Dawn,July,2022,4,Free Demo / Set movement setting to head for decoupled head-body,Yes,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,KatDB config
 Altspace VR,Februari,2022,2,,No,Yes,Yes,No (Slow),Yes,SteamVR,Kat Walk C1,custom
 Arizona Sunshine,July,2022,4,KatDB config based on the Pre-Set config but with joystick(press),Yes,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,KatDB config
 Blade & Sorcerey,July,2022,4,,No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-Chambered,July,2022,2,Free game,No,No,Yes,No (Too fast),No,SteamVR,Kat Walk C1,custom
+Chambered,July,2022,2,Free game,No,No,Yes,Yes,No,SteamVR,Kat Walk C1,custom
 Drunkn Bar Fight,July,2022,2,,No ,Only Airport and Ally ,Yes ,No (Slow),Yes,SteamVR,Kat Walk C1,KatDB config
-Echo Grotto,July,2022,1,"No free locomotion, but no room scale required",x,x,x,x,x,SteamVR,Kat Walk C1,x
-Freedive  Triton Down,July,2022,1,"No free locomotion, but no room scale required",x,x,x,x,x,SteamVR,Kat Walk C1,x
-Freedom Locomotion VR,Februari,2022,,"Broken on Index, submissions on other headsets are welcome",,,,,,,,
+Echo Grotto,July,2022,1,"No free locomotion, no room scale required",x,x,x,x,x,SteamVR,Kat Walk C1,x
+Freedive  Triton Down,July,2022,1,"No free locomotion, no room scale required",x,x,x,x,x,SteamVR,Kat Walk C1,x
+Frigid VR,April,2022,2,The movement is too slow to enjoy on the kat walk C,Yes ,Yes,Yes,No (Slow),Yes,SteamVR,Kat Walk C1,custom
 Google Earth VR,July,2022,3,Its more like flying then walking,No,Its enormous!,Yes,Yes,No,SteamVR,Kat Walk C1,KatDB config
 Gorilla Tag,July,2022,1,No free locomotion,x,x,x,x,x,SteamVR,Kat Walk C1,x
 Gorn,July,2022,4,,No,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
@@ -16,18 +16,17 @@ Grid Clash,July,2022,2,"Jog in place locomotion, but it plays fine on the Kat Wa
 Half-Life Alyx,,,,Use the launch options to increase walking speed,,,,,,,,
 Island 359,July,2022,3,"Uses stamina system, so sprinting can be unreliable at times",No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
 Medal Of Honor: Above And Beyond,Februari,2022,4,,Yes,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,KatDB config
+Metroid Prime,Februari,2022,4,Emulated trough Dolphin VR,No,Yes,Yes,Yes,No,SteamVR,Kat Walk C1,Xinput
 Pangman,Februari,2022,2,,No,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,KatDB config
-Pavlov,July,2022,,Set input vector to Head in the settings for head-body movement,No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
+Pavlov,July,2022,,Set movement setting to head for decoupled head-body,No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
 Population: One,,,,,,,,,,,,
 Primitier,July,2022,4,Free Demo available ,No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,KatDB config
-Rec Room,,,,,,,,,,,,
+Rec Room,July,2022,4,Free game,Yes,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,KatDB config
 Saints & Sinners,,,,,,,,,,,,
-Sansar,,,,,,,,,,,,
+Tahoe Alpine Ski,,,,"No free locomotion, but no room scale required",,,,,,,,
 The Lab,,,,,,,,,,,,
 Vertical Shift,,,,,,,,,,,,
 VRChat,Februari,2022,4,https://github.com/dokterkats/katDB/blob/main/VRChat/worlds.csv,No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-"Wakamarina Valley, New Zealand",,,,,,,,,,,,
-Zenith,,,,,,,,,,,,
-Zero Caliber,,,,,,,,,,,,
-Metroid Prime,Februari,2022,4,Emulated trough Dolphin VR,No,Yes,Yes,Yes,No,SteamVR,Kat Walk C1,
-Frigid VR,April,2022,2,The movement is too slow to enjoy on the kat walk C,Yes ,Yes,Yes,No (Slow),Yes,SteamVR,Kat Walk C1,
+"Wakamarina Valley, New Zealand",July,2022,4,Set input vector to Head in the settings for head-body movement,No,Yes,Yes,Yes (No sprinting),Yes,SteamVR,Kat Walk C1,KatDB config
+Zenith,July,2022,,,Yes,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
+Zero Caliber,July,2022,,,No,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
