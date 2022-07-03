@@ -1,0 +1,10 @@
+﻿{
+  "Index": 1,
+  "Name": "Rec Room KDB",
+  "Linear_Mapping": true,
+  "InSteamController": 0,
+  "DirectionDatum": 2,
+  "ControlMethod": 3,
+  "Mapping_Speed": 1.0,
+  "Notes": "Same as pre-set except for using Thumbstick(Press)"
+}
