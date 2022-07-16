@@ -17,6 +17,10 @@ echo Moving the KatDB Configs to Kat Gateway
 TIMEOUT 3
 cd katDB-main/installer/
 move Local.json %AppData%/KAT_Gateway
+cd ..
+cd CustomGateway/messages/
+move KAT_Message.json %AppData%/KAT_Gateway
+move 000001.png %AppData%/KAT_Gateway/Messages
 cls
 echo Cleaning things up
 TIMEOUT 3
