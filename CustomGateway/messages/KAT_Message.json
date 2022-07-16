@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "876568",
+      "is_read": true,
+      "is_delete": true,
+      "title": "KAT Gateway 1.5.1 update log",
+      "subtitle": "KAT Gateway 1.5.1 update log",
+      "time": "2021-10-28 17:42:57",
+      "url_exist": true,
+      "url": "https://download.katvr.com/product/software/KAT%20Gateway%20Setup%201.5.1.exe",
+      "detail_zip": "https://gatewayadmin.katvr.com/message/876568.zip",
+      "detail_image": "https://gatewayadmin.katvr.com/message/876568/876568.png",
+      "device_type": 0,
+      "forced": true
+    },
+    {
+      "id": "000001",
+      "is_read": false,
+      "is_delete": false,
+      "title": "KatDB Config Installation",
+      "subtitle": "Thanks for using KatDB!",
+      "time": "",
+      "url_exist": true,
+      "url": "https://github.com/dokterkats/katDB",
+      "detail_zip": "",
+      "detail_image": "",
+      "device_type": 0,
+      "forced": true
+    }
+  ]
+}
