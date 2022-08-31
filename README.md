@@ -37,7 +37,7 @@ Please fill in the following <a href="https://docs.google.com/forms/d/e/1FAIpQLS
 ### Contribute Method 2 (Discord PM)
 
 Message Dokterkat#7493 with the games you used on your Kat device that are from Steam or Oculus with the following information:
-1. Game Name.>
+1. Game Name.
 2. Month Last Tested.
 3. Year Last Tested.
 4. Rating for steam.
