@@ -39,11 +39,13 @@ Please fill in the following <a href="https://docs.google.com/forms/d/e/1FAIpQLS
 Message Dokterkat#7493 with the games you used on your Kat device that are from Steam or Oculus with the following information:
 1. Game Name.
 2. Date last tested.
-3. Anything worth noting.
+3. Anything worth noting. (Workarounds, ingame-settings etc.)
 4. The game needs a joystick press to sprint.
 5. The game posses a big open world/worlds.
-6. The the game has a realistic walking speed.
+6. The the game has a realistic walking speed. (If no, was it too fast or too slow?)
 7. The game works with the decoupled head/body walking direction.
+8. What platfrom did you test the game on. (Steam/Oculus)
+9. Which Kat VR Product did you test the game on. (Loco/C1/C2/etc.)
 
 I will then update the spreadsheet myself.
 
