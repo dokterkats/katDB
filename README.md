@@ -38,16 +38,12 @@ Please fill in the following <a href="https://docs.google.com/forms/d/e/1FAIpQLS
 
 Message Dokterkat#7493 with the games you used on your Kat device that are from Steam or Oculus with the following information:
 1. Game Name.
-2. Month Last Tested.
-3. Year Last Tested.
-4. Rating for steam.
-5. Anything worth noting.
-6. Rating for Oculus.
-7. The game need a joystick press to sprint.
-8. The game posses big open world/worlds.
-9. The game has a low delay registering a walk.
-10. The the game has a realistic walking speed.
-11. The game works with the decoupled head/body walking direction.
+2. Date last tested.
+3. Anything worth noting.
+4. The game need a joystick press to sprint.
+5. The game posses a big open world/worlds.
+6. The the game has a realistic walking speed.
+7. The game works with the decoupled head/body walking direction.
 
 I will then update the spreadsheet myself.
 
@@ -59,4 +55,4 @@ To submit an game request, do one of the following:
 2. Enter this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeDn0oKex0_4pimI7VM2yDv2NdpnQ5aCRGjnDV5PXSyZYR-ew/viewform?usp=sf_link">form</a>
 
 ## Future Plans & Goals
-- A website to more easily search for games. Similair to for example protonDB.
+- A website to more easily search for games. Similar to for example protonDB.
