@@ -40,7 +40,7 @@ Message Dokterkat#7493 with the games you used on your Kat device that are from 
 1. Game Name.
 2. Date last tested.
 3. Anything worth noting.
-4. The game need a joystick press to sprint.
+4. The game needs a joystick press to sprint.
 5. The game posses a big open world/worlds.
 6. The the game has a realistic walking speed.
 7. The game works with the decoupled head/body walking direction.
