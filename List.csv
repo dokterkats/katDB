@@ -7,6 +7,8 @@ Blade & Sorcerey,July,2022,4,,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
 Chambered,July,2022,2,Free game,No,No,Yes,No,SteamVR,Kat Walk C1,custom
 Drunkn Bar Fight,July,2022,2,,No ,Only Airport and Ally ,No (Slow),Yes,SteamVR,Kat Walk C1,KatDB config
 Echo Grotto,July,2022,1,"No free locomotion, no room scale required",x,x,x,x,SteamVR,Kat Walk C1,x
+Fallout 4 VR,-,-,,,Yes,Yes,No (Slow),Yes (needs workaround),,Kat Walk C1,
+FORWARNED,September,2022,4,Turn on “Always Sprint” in the settings,No,Somewhat,Yes,Yes,SteamVR,Kat Walk C1,Custom
 Freedive  Triton Down,July,2022,1,"No free locomotion, no room scale required",x,x,x,x,SteamVR,Kat Walk C1,x
 Frigid VR,April,2022,2,The movement is too slow to enjoy on the kat walk C,Yes ,Yes,No (Slow),Yes,SteamVR,Kat Walk C1,custom
 Google Earth VR,July,2022,3,Its more like flying then walking,No,Its enormous!,Yes,No,SteamVR,Kat Walk C1,KatDB config
@@ -14,6 +16,7 @@ Gorilla Tag,July,2022,1,No free locomotion,x,x,x,x,SteamVR,Kat Walk C1,x
 Gorn,July,2022,4,,No,No,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
 Grid Clash,July,2022,2,"Jog in place locomotion, but it plays fine on the Kat Walk C",No,No,Yes,No,SteamVR,Kat Walk C1,KatDB config
 Half-Life Alyx,,,,Use the launch options to increase walking speed,,,,,,,
+In Death,-,-,,,,,No (Slow),,,,
 Island 359,July,2022,3,"Uses stamina system, so sprinting can be unreliable at times",No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
 Medal Of Honor: Above And Beyond,Februari,2022,4,,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,KatDB config
 Metroid Prime,Februari,2022,4,Emulated trough Dolphin VR,No,Yes,Yes,No,SteamVR,Kat Walk C1,Xinput
@@ -25,11 +28,9 @@ Rec Room,July,2022,4,Free game,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,KatDB config
 Saints & Sinners,,,,,,,,,,,
 Tahoe Alpine Ski,,,,"No free locomotion, but no room scale required",,,,,,,
 The Lab,,,,,,,,,,,
+Until You Fall,-,-,,,No,,No (Slow),,,,
 Vertical Shift,,,,,,,,,,,
 VRChat,Februari,2022,4,https://github.com/dokterkats/katDB/blob/main/VRChat/worlds.csv,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
 "Wakamarina Valley, New Zealand",July,2022,4,Set input vector to Head in the settings for head-body movement,No,Yes,Yes (No sprinting),Yes,SteamVR,Kat Walk C1,KatDB config
 Zenith,July,2022,,,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
 Zero Caliber,July,2022,,,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-Fallout 4 VR,-,-,,,Yes,Yes,No (Slow),Yes (needs workaround),,Kat Walk C1,
-In Death,-,-,,,,,No (Slow),,,,
-Until You Fall,-,-,,,No,,No (Slow),,,,
