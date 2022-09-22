@@ -1,5 +1,5 @@
 # katDB
-***This is a database of game states for the Kat Walk C..***
+***This is a database of game states for the Kat Walk C.***
 
 ## Explanation
 
