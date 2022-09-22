@@ -7,7 +7,7 @@ There are several key factors in determining if a game or experience will work w
 
 ## Navigating katDB
 
-* To view the CSV spreadsheet view it [here](./List.csv).
+* To view the game lists, click on one of the following links: [PCVR](/lists/pcvr.csv),[Quest](/lists/quest.csv,[PSVR](/lists/psvr.csv)).
 
 * To view game requests to test and contribute yourself, [go here](./requests.csv)
 
@@ -16,11 +16,10 @@ There are several key factors in determining if a game or experience will work w
 **NOTE: as of now, kat DB is only for applications using the SteamVR platform. Games from the Oculus store arent listed yet.
 
 ## What Do The Ratings Mean?
-
-1. Unusable. Mostly games that fail to work, or with no smooth locomotion
-2. Acceptable, but with long latency or slow/unrealistic walking speeds 
-3. Almost everything works with minimal caveats
-4. Perfect or like-perfect experience
+(empty). No smooth locomotion
+1. Acceptable, but with long latency or slow/unrealistic walking speeds 
+2. Almost everything works with minimal caveats
+3. Perfect or like-perfect experience
 
 ## How To Contribute Your Applications
 
