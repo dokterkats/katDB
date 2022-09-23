@@ -9,7 +9,7 @@ There are several key factors in determining if a game or experience will work w
 
 * To view the game lists, click on one of the following links: [PCVR](/lists/pcvr.csv), [Quest](/lists/quest.csv), [PSVR](/lists/psvr.csv).
 
-* To view game requests to test and contribute yourself, [go here](./requests.csv)
+* To view game requests to test and contribute yourself, [go here](https://github.com/users/dokterkats/projects/5)
 
 * To download custom katDB game configs, [go here.](./Game Configs)
 
