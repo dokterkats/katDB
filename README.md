@@ -13,7 +13,7 @@ There are several key factors in determining if a game or experience will work w
 
 * To download custom katDB game configs, [go here.](https://github.com/dokterkats/katDB/tree/main/Game%20Configs)
 
-**NOTE: as of now, kat DB is only for applications using the SteamVR platform. Games from the Oculus store arent listed yet.
+**NOTE: As of now, only SteamVR games have been tested. Please feel free to submit your testings for other platforms like oculus and psvr!
 
 ## What Do The Ratings Mean?
 (empty). No smooth locomotion
