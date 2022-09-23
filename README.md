@@ -11,7 +11,7 @@ There are several key factors in determining if a game or experience will work w
 
 * To view game requests to test and contribute yourself, [go here](https://github.com/users/dokterkats/projects/5)
 
-* To download custom katDB game configs, [go here.](./Game Configs)
+* To download custom katDB game configs, [go here.](https://github.com/dokterkats/katDB/tree/main/Game%20Configs)
 
 **NOTE: as of now, kat DB is only for applications using the SteamVR platform. Games from the Oculus store arent listed yet.
 
