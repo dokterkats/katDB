@@ -1,6 +1,7 @@
 Game,Month,Year,Rating (1-3),Notes,Joystick press to sprint,Big open world/worlds,Realistic speed,body direction,Platform,Tested on,Config used
 A Walk In The Woods VR,Februari,2022,3,Walking speed is adjustible in the beta ,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Custom
-After the fall,September,2022,3,Change movement orientation to head for decoupled head-body,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
+After the fall,September,2022,3,Change movement orientation to head for decoupled head-body,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
+-After the fall,^,^,^,There is a option for auto sprint in the settings,^,^,^,^,^,^,^
 Alien Dawn,July,2022,2, Set movement setting to head for decoupled head-body,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Custom
 Altspace VR,Februari,2022,2,,No,Yes,No (Slow),Yes,SteamVR,Kat Walk C1,Custom
 Arizona Sunshine,July,2022,3,,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Custom
