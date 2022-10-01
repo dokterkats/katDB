@@ -10,7 +10,7 @@ There are several key factors in determining if a game or experience will work w
 
 ## Navigating katDB
 
-***Update: KatDB is now browsable trough the following*** [website](https://katdb.info)
+* Update: KatDB is now browsable trough the following [website](https://katdb.info)
 
 * To view the game lists, click on one of the following links: [PCVR](/lists/pcvr.csv), [Quest](/lists/quest.csv), [PSVR](/lists/psvr.csv).
 
