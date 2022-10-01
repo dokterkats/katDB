@@ -1,11 +1,16 @@
 # katDB
 ***This is a database of game states for KatVR products.***
 
+# IMPORTANT UPDATE!
+KatDB now has a dedicated [website!](https://katdb.info) It is still very much work in progress, but I will continue working on it in my free time.
+
 ## Explanation
 
 There are several key factors in determining if a game or experience will work well on a KAT VR device. This database will list what I believe are the most essential factors. This includes how well the in-game walking speed matches your real-life speed. But also if the in-game world is big enough to actually walk in. Please also see this [(SteamVR List)](https://www.kat-vr.com/pages/all-gamelist), as well as the [(Oculus game list)](https://www.kat-vr.com/pages/oculus-game-list), provided by KAT VR
 
 ## Navigating katDB
+
+***Update: KatDB is now browsable trough the following [website](https://katdb.info) ***
 
 * To view the game lists, click on one of the following links: [PCVR](/lists/pcvr.csv), [Quest](/lists/quest.csv), [PSVR](/lists/psvr.csv).
 
