@@ -1,40 +1,40 @@
-Game,Month,Year,Rating (1-3),Notes,Joystick press to sprint,Big open world/worlds,Realistic speed,body direction,Platform,Tested on,Config used
-A Walk In The Woods VR,Februari,2022,3,Walking speed is adjustible in the beta ,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Custom
-After the fall,September,2022,3,Change movement orientation to head for decoupled head-body,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-Alien Dawn,July,2022,2, Set movement setting to head for decoupled head-body,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Custom
-Altspace VR,Februari,2022,2,,No,Yes,No (Slow),Yes,SteamVR,Kat Walk C1,Custom
-Arizona Sunshine,July,2022,3,,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Custom
-Blade & Sorcerey,July,2022,3,,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-Boiling Steel,October,2022,2,Feels different between the demo and  main game,No (Dash),Yes (Linear),No (slow),Yes,SteamVR,Kat Walk C2+,
-Chambered,July,2022,1,Free,No,No,Yes,No,SteamVR,Kat Walk C1,Custom
-Drunkn Bar Fight,July,2022,1,,No ,Somewhat,No (Slow),Yes,SteamVR,Kat Walk C1,Custom
-Echo Grotto,July,2022,,Teleportation only,,,,,SteamVR,Kat Walk C1,
-Fallout 4 VR,-,-,2,,Yes,Yes,No (Slow),Yes (needs workaround),,Kat Walk C1,
-FORWARNED,September,2022,2,Turn on “Always Sprint” in the settings,No,Somewhat,Yes,Yes,SteamVR,Kat Walk C1,Custom
-Freedive  Triton Down,July,2022,,No smooth locomotion,x,x,x,x,SteamVR,Kat Walk C1,x
-Frigid VR,April,2022,2,early access when tested,Yes ,Yes,No (Slow),Yes,SteamVR,Kat Walk C1,custom
-Fruit Ninja 2 VR,October,2022,2,responds well to kat gateway adjustments,No,No (small),Yes,Yes,SteamVR,Kat Walk C2+,
-Google Earth VR,July,2022,2,Its more like flying then walking,No,Yes,Yes,No,SteamVR,Kat Walk C1,Custom
-Gorilla Tag,July,2022,,No free locomotion,x,x,x,x,SteamVR,Kat Walk C1,x
-Gorn,July,2022,2,,No,No,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-Grapple Tournament,October,2022,3,practically made for KatWalk!! -  demo available for good reasons,No,Yes,Yes (fast),Yes,SteamVR,Kat Walk C2+,
-Grid Clash,July,2022,1,"Walk in place locomotion, but it plays fine on the Kat Walk C",No,No,Yes,No,SteamVR,Kat Walk C1,Custom
-Half-Life 2 – VR mod,September,2022,,,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Custom
-Half-Life Alyx,,,,Use the launch options to increase walking speed,untested,Yes,Yes,untested,,,
-Island 359,July,2022,3,Uses stamina system for sprinting,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-Medal Of Honor: Above And Beyond,Februari,2022,3,,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Custom
-Metroid Prime,Februari,2022,3,Emulated trough Dolphin VR,No,Yes,Yes,No,SteamVR,Kat Walk C1,Xinput
-Pangman,Februari,2022,2,,No,No,Yes,Yes,SteamVR,Kat Walk C1,Custom
-Pavlov,July,2022,3,Set movement setting to head for decoupled head-body,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-Population: One,,,,,,,,,,,
-Primitier,July,2022,3,Free demo ,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Custom
-Rec Room,July,2022,3,Free game,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Custom
-Saber Fight,October,2022,2,"No perfect, but not bad. Needs to be retested",No,Somewhat,No (fast/abrupt),Unknown,SteamVR,Kat Walk C2+,
-Saints & Sinners,,,,,,,,,,,
-Stride,September,2022,3,Uses hand movement for sprinting speed,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-Tahoe Alpine Ski,,,,No smooth locomotion,,,,,,,
-VRChat,Februari,2022,3,https://github.com/dokterkats/katDB/blob/main/VRChat/worlds.csv,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-"Wakamarina Valley, New Zealand",July,2022,3,Set input vector to Head in the settings for decoupled head-body,No,Yes,Yes (No sprinting),Yes,SteamVR,Kat Walk C1,Custom
-Windlands 2,October,2022,2,"Mostly grappling, with a little walking",No,Yes,Yes (fast),Yes,SteamVR,Kat Walk C2+,
-Zenith,July,2022,3,,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
-Zero Caliber,July,2022,3,,No,Yes,Yes,Yes,SteamVR,Kat Walk C1,Pre-Set
+Game,Month,Year,Rating (1-3),Notes,Joystick press to sprint,Big open world/worlds,Realistic speed,body direction,Platform,Tested on
+A Walk In The Woods VR,Februari,2022,3,Walking speed is adjustible in the beta ,No,Yes,Yes,Yes,SteamVR,Kat Walk C1
+After the fall,September,2022,3,Change movement orientation to head for decoupled head-body,No,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Alien Dawn,July,2022,2, Set movement setting to head for decoupled head-body,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Altspace VR,Februari,2022,2,,No,Yes,No (Slow),Yes,SteamVR,Kat Walk C1
+Arizona Sunshine,July,2022,3,,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Blade & Sorcerey,July,2022,3,,No,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Boiling Steel,October,2022,2,Feels different between the demo and  main game,No (Dash),Yes (Linear),No (slow),Yes,SteamVR,Kat Walk C2+
+Chambered,July,2022,1,Free,No,No,Yes,No,SteamVR,Kat Walk C1
+Drunkn Bar Fight,July,2022,1,,No ,Somewhat,No (Slow),Yes,SteamVR,Kat Walk C1
+Echo Grotto,July,2022,,Teleportation only,,,,,SteamVR,Kat Walk C1
+Fallout 4 VR,-,-,2,,Yes,Yes,No (Slow),Yes,,Kat Walk C1
+FORWARNED,September,2022,2,Turn on “Always Sprint” in the settings,No,Somewhat,Yes,Yes,SteamVR,Kat Walk C1
+Freedive  Triton Down,July,2022,,No smooth locomotion,x,x,x,x,SteamVR,Kat Walk C1
+Frigid VR,April,2022,2,early access when tested,Yes ,Yes,No (Slow),Yes,SteamVR,Kat Walk C1
+Fruit Ninja 2 VR,October,2022,2,responds well to kat gateway adjustments,No,No (small),Yes,Yes,SteamVR,Kat Walk C2+
+Google Earth VR,July,2022,2,Its more like flying then walking,No,Yes,Yes,No,SteamVR,Kat Walk C1
+Gorilla Tag,July,2022,,No free locomotion,x,x,x,x,SteamVR,Kat Walk C1
+Gorn,July,2022,2,,No,No,Yes,Yes,SteamVR,Kat Walk C1
+Grapple Tournament,October,2022,3,practically made for KatWalk!! -  demo available for good reasons,No,Yes,Yes (fast),Yes,SteamVR,Kat Walk C2+
+Grid Clash,July,2022,1,"Walk in place locomotion, but it plays fine on the Kat Walk C",No,No,Yes,No,SteamVR,Kat Walk C1
+Half-Life 2 – VR mod,September,2022,,,No,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Half-Life Alyx,,,,Use the launch options to increase walking speed,untested,Yes,Yes,untested,,
+Island 359,July,2022,3,Uses stamina system for sprinting,No,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Medal Of Honor: Above And Beyond,Februari,2022,3,,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Metroid Prime,Februari,2022,3,Emulated trough Dolphin VR,No,Yes,Yes,No,SteamVR,Kat Walk C1
+Pangman,Februari,2022,2,,No,No,Yes,Yes,SteamVR,Kat Walk C1
+Pavlov,July,2022,3,Set movement setting to head for decoupled head-body,No,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Population: One,,,,,,,,,,
+Primitier,July,2022,3,Free demo ,No,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Rec Room,July,2022,3,Free game,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Saber Fight,October,2022,2,"No perfect, but not bad. Needs to be retested",No,Somewhat,No (fast/abrupt),Unknown,SteamVR,Kat Walk C2+
+Saints & Sinners,,,,,,,,,,
+Stride,September,2022,3,Uses hand movement for sprinting speed,No,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Tahoe Alpine Ski,,,,No smooth locomotion,,,,,,
+VRChat,Februari,2022,3,https://github.com/dokterkats/katDB/blob/main/VRChat/worlds.csv,No,Yes,Yes,Yes,SteamVR,Kat Walk C1
+"Wakamarina Valley, New Zealand",July,2022,3,Set input vector to Head in the settings for decoupled head-body,No,Yes,Yes (No sprinting),Yes,SteamVR,Kat Walk C1
+Windlands 2,October,2022,2,"Mostly grappling, with a little walking",No,Yes,Yes (fast),Yes,SteamVR,Kat Walk C2+
+Zenith,July,2022,3,,Yes,Yes,Yes,Yes,SteamVR,Kat Walk C1
+Zero Caliber,July,2022,3,,No,Yes,Yes,Yes,SteamVR,Kat Walk C1
